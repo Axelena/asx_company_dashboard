@@ -19,3 +19,5 @@ It has some restrictions:
 6. Would work on Responsive desing more, suitable for phones (sorry didn't have enough time to finish this)
 7. would work on saving comparioson info as a file maybe for a user
 
+a scrteenshot from first version:
+<img width="1270" height="760" alt="image" src="https://github.com/user-attachments/assets/53090972-a525-4c2e-98fb-495a137f816b" />
